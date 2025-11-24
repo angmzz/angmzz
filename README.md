@@ -1,7 +1,5 @@
 ![Banner](icons/bannergithub2.png)
 
-👋
-
 Apasionado por la ciencia de datos.
 
 #
